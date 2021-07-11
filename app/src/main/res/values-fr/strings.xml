@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">BILU-BILU</string>
+    <string name="jogar">JOUER</string>
+    <string name="jogadores">JOUEURS</string>
+    <string name="opções">OPTIONS</string>
+    <string name="sair">SORTEZ</string>
+    <string name="jogador">JOUEUR</string>
+    <string name="seu_nome">Votre nom:</string>
+    <string name="entrar">ENTRER</string>
+    <string name="jogador_1">JOUEUR 1</string>
+    <string name="jogador_2">JOUEUR 2</string>
+    <string name="idiomas">LES LANGUES</string>
+    <string name="pontos">POINTS</string>
+    <string name="alterar">CAMBIO</string>
+    <string name="apagar">EFFACER</string>
+    <string name="dados">Dado</string>
+    <string name="digite_o_nome">escriba el nombre ...</string>
+    <string name="proximo">Siguiente</string>
+    <string name="franc_s">Francés</string>
+    <string name="espanhol">Español</string>
+    <string name="english">English</string>
+    <string name="selecione_o_idioma_que_deseja">Sélectionnez la langue souhaitée:</string>
+    <string name="portugu_s" translatable="false">Portugués</string>
+    <string name="dialogo_title">BILU-BILU</string>
+    <string name="text">Êtes-vous sûr de vouloir quitter?</string>
+    <string name="sim">Ouais</string>
+    <string name="nao">Non</string>
+    <string name="dialogo_jogo_title">FIN DU JEU</string>
+    <string name="text_pontos">Points: </string>
+    <string name="jogar_novamente">Rejouer</string>
+    <string name="correta">CORRIGER</string>
+    <string name="errada">TORT</string>
+    <string name="campo">Ce champ est vide</string>
+    <string name="nome">NOM</string>
+    <string name="id">ID</string>
+</resources>

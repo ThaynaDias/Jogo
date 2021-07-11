@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">BILU-BILU</string>
+
+    <string name="jogar">JOGAR</string>
+    <string name="jogadores">JOGADORES</string>
+    <string name="opções">OPÇÕES</string>
+    <string name="sair">SAIR</string>
+    <string name="jogador">JOGADOR</string>
+    <string name="seu_nome">Seu nome:</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="jogador_1">JOGADOR 1</string>
+    <string name="jogador_2">JOGADOR 2</string>
+    <string name="idiomas">IDIOMAS</string>
+    <string name="pontos">PONTOS</string>
+    <string name="digite_o_nome">digite o nome...</string>
+    <string name="alterar">ALTERAR</string>
+    <string name="apagar">APAGAR</string>
+    <string name="dados">Dados</string>
+    <string name="proximo">próximo</string>
+    <string name="portugu_s">Português</string>
+    <string name="franc_s">Francês</string>
+    <string name="espanhol">Espanhol</string>
+    <string name="english">English</string>
+    <string name="selecione_o_idioma_que_deseja">Selecione o idioma que deseja:</string>
+    <string name="dialogo_title">BILU-BILU</string>
+    <string name="dialogo_jogo_title">FIM DE JOGO</string>
+    <string name="text_pontos">Pontos: </string>
+    <string name="text">Tem certeza que quer sair?</string>
+    <string name="jogar_novamente">Jogar novamente</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="correta">CORRETA</string>
+    <string name="errada">ERRADA</string>
+    <string name="campo">Este campo está vázio</string>
+    <string name="nome">NOME</string>
+    <string name="id">ID</string>
+
+</resources>

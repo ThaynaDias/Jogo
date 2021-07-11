@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BILU-BILU</string>
+    <string name="jogar">JUGAR</string>
+    <string name="jogadores">JUGADORES</string>
+    <string name="opções">OPCIONES</string>
+    <string name="sair">SALIR</string>
+    <string name="jogador">JUGADOR</string>
+    <string name="seu_nome">Su nombre:</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="jogador_1">JUGADOR 1</string>
+    <string name="jogador_2">JUGADOR 2</string>
+    <string name="idiomas">IDIOMAS</string>
+    <string name="pontos">PUNTOS</string>
+    <string name="alterar">MONNAIE</string>
+    <string name="apagar">ELIMINAR</string>
+    <string name="dados">Dé</string>
+    <string name="digite_o_nome" translatable="false">tapez le nom ...</string>
+    <string name="proximo">suivant</string>
+    <string name="franc_s">Français</string>
+    <string name="espanhol">Espanol</string>
+    <string name="english">English</string>
+    <string name="selecione_o_idioma_que_deseja">Seleccione el idioma que desee:</string>
+    <string name="portugu_s">Portugais</string>
+    <string name="dialogo_title">BILU-BILU</string>
+    <string name="text">¿Seguro que quieres salir?</string>
+    <string name="sim">Sí</string>
+    <string name="nao">No</string>
+    <string name="dialogo_jogo_title">FIN DEL JUEGO</string>
+    <string name="text_pontos">Puntos: </string>
+    <string name="jogar_novamente">Juega de nuevo</string>
+    <string name="correta">CORRECTO</string>
+    <string name="errada">EQUIVOCADO</string>
+    <string name="campo">Este campo esta vacio</string>
+    <string name="nome">NOMBRE</string>
+    <string name="id">ID</string>
+
+
+</resources>
